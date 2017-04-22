@@ -1,0 +1,28 @@
+# Download location
+downloads/
+
+*.txt
+*.class
+*.log
+
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+# other scm
+.svn
+.CVS
+.hg*
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
